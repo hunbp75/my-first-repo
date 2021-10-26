@@ -1,1 +1,1 @@
-Ez életem első GitHub repoja.
+Ez életem első GitHub repoja
